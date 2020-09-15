@@ -1,0 +1,4 @@
+* {padding: 0px; margin: 0px;}
+body {width: 100%;background-image: url("../image/bg.jpg");background-attachment: fixed;background-repeat: no-repeat;background-size: cover;background-position: center;}
+.div1 {min-width: 720px;height: 800px;background-attachment: fixed;background-repeat: no-repeat;background-size: cover;background-position: center;box-shadow: 0px 0px 60px 10px black;}
+.div2 {min-width: 720px;height: 260px;}
